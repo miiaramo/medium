@@ -1,0 +1,4 @@
+Question,Insertion,Replacement
+1 (Sentence 1 is a good quality sentence in the target language),5.57 (1.46),5.55 (1.46)
+2 (Sentence 2 is a good quality sentence in the target language),5.76 (1.41),5.60 (1.40)
+3 (Sentences 1 and 2 have essentially the same meaning),5.54 (1.36),5.65 (1.27)
